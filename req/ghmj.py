@@ -1,1 +1,1 @@
-sdsv
+print(0)
